@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import NrMap from "./NrMap.js";
+import { NrMap } from "./NrMap.js";
 
 class NearestHospital extends Component {
   render() {
